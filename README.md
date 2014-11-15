@@ -40,4 +40,11 @@ Create new access token
 	});
 ```
 
+How to authenticate with your secret key
+```
+	var metadisk = require('metadisk')
+
+	metadisk.SECRET_KEY = 'secret_key'
+```
+
 For more examples, check [Examples](https://github.com/switchpwn/metadisk.js/tree/master/examples).
