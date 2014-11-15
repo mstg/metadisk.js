@@ -3,6 +3,18 @@ metadisk.js
 
 Metadisk node wrapper
 
+### Installation
+#### NPM
+```
+npm install metadisk
+```
+
+#### Git
+```
+git clone https://github.com/switchpwn/metadisk.js
+npm install
+```
+
 ### Examples
 Check status
 ```
