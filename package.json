@@ -1,0 +1,21 @@
+{
+  "name": "metadisk",
+  "description": "MetaDisk node library",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "keywords": [
+    "metadisk api",
+    "metadisk node"
+  ],
+  "author": "Mustafa Gezen <mustiigezen@gmail.com> (mustafaa.org)",
+  "dependencies": {
+    "request": "2.48.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/switchpwn/metadisk.js.git"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  }
+}
