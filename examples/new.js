@@ -1,6 +1,8 @@
-var metadisk = require('../lib/index.js')
+var metadisk = require('../lib/index.js');
 
-metadisk.accounts.token.new(function(err, token) {
+// You can use metadisk.accounts.token.new too
+// .create is alias for .new
+metadisk.accounts.token.create(function(err, token) {
 	if (err)
 		return console.log(err);
 
