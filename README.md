@@ -3,6 +3,8 @@ metadisk.js
 
 Metadisk node wrapper
 
+[![ReviewNinja](http://app.review.ninja/assets/images/wereviewninja-32.png)](http://app.review.ninja/mstg/metadisk.js)
+
 ### Installation
 #### NPM
 ```
